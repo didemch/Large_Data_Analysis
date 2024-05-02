@@ -1,7 +1,10 @@
 # Statistical analysis and visual explanation of large climate data
-Exploring statistical methods and principles, with focus on those suitable for non- linear, spatio-temporal autocorrelated data and unsupervised machine learning tools, to effectively extract quantitative information from large climate and earth system science observational and model data. 
 
-[DJF Rainfall Trend Analysis in Los Angeles](https://github.com/didemch/Large_Data_Analysis/blob/main/MK%2C%20MMK%2C%20Vogelsang.ipynb)
+
+**Exploring statistical methods and principles, with focus on those suitable for non- linear, spatio-temporal autocorrelated data and unsupervised machine learning tools, to effectively extract quantitative information from large climate and earth system science observational and model data.**
+
+*[PROJECT 1: DJF Rainfall Trend Analysis in Los Angeles](https://github.com/didemch/Large_Data_Analysis/blob/main/MK%2C%20MMK%2C%20Vogelsang.ipynb)*
+
 Overview: This project analyzes the trend of DJF (December-January-February) rainfall data in Los Angeles from 1980 to 2018. The goal is to determine if there's a significant trend in the data and if so, whether it is positive or negative. The project explores different trend tests and evaluates their suitability for this dataset.
 
 - Question 1: Mann-Kendall Trend Test
